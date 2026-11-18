@@ -1,5 +1,4 @@
 raw/
-data/
 .venv/
 *.pt
 __pycache__/
